@@ -1,16 +1,98 @@
-## Hi there 👋
 
-<!--
-**JuanMaa15/JuanMaa15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Juan Manuel Henao</h1>
+<h3 align="center">Backend Developer | Node.js & TypeScript | Scalable APIs</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://linkedin.com/in/tuusuario">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Available%20for-Remote%20Work-success?style=for-the-badge"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+Backend Developer focused on building **scalable, maintainable and well-tested APIs**.
+
+I specialize in:
+- Clean Architecture
+- Layered Architecture
+- RESTful API Design
+- Database modeling
+- Integrations with external services
+
+I care about writing code that is:
+- Maintainable
+- Testable
+- Scalable
+- Production-ready
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="45"/>
+</p>
+
+### Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
+</p>
+
+### Testing & Quality
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="45"/>
+</p>
+
+---
+
+## 📌 Highlight Projects
+
+### 🧾 Finance System
+- Node.js + Express + MongoDB
+- Mercado Libre API integration
+- Zoho Creator integration
+- REST API with structured architecture
+
+### 🍽 Restaurant API
+- TypeScript + PostgreSQL
+- Layered architecture
+- Zod validations
+- Automated testing with Jest
+
+### 📅 Dynamic Booking System (In Progress)
+- TypeScript + Prisma + PostgreSQL
+- Designed for barbershops and service businesses
+- Scalable and modular architecture
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Advanced TypeScript patterns
+- Scalable backend architecture
+- Production-grade error handling
+- Clean code & best practices
+
+---
+
+## 🌎 Location
+
+Colombia — Open to remote opportunities worldwide.
