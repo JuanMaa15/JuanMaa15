@@ -29,6 +29,8 @@ I care about writing code that is:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="45" style="margin-right: 15px;"/>  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" style="margin-right: 15px;"/>  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="45" style="margin-right: 15px;"/>  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drizzle/drizzle-original.svg" height="45"/>  &nbsp;&nbsp;&nbsp;&nbsp;
+
   
 </p>
 
