@@ -2,21 +2,11 @@
 <h1 align="center">Juan Manuel Henao</h1>
 <h3 align="center">Backend Developer | Node.js & TypeScript | Scalable APIs</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/tuusuario">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Available%20for-Remote%20Work-success?style=for-the-badge"/>
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 Backend Developer focused on building **scalable, maintainable and well-tested APIs**.
 
 I specialize in:
-- Clean Architecture
 - Layered Architecture
 - RESTful API Design
 - Database modeling
@@ -51,6 +41,15 @@ I care about writing code that is:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="45"/>
 </p>
+
+### DevOps & Cloud
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45"/>
+  <img src="https://railway.app/brand/logo-light.svg" height="45"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="45"/>
+</p>
+
 
 ---
 
