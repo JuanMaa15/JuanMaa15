@@ -52,37 +52,6 @@ I care about writing code that is:
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="45"/>
 </p>
 
-
----
-
-## 📌 Highlight Projects
-
-### 🧾 Finance System
-- Node.js + Express + MongoDB
-- Mercado Libre API integration
-- Zoho Creator integration
-- REST API with structured architecture
-
-### 🍽 Restaurant API
-- TypeScript + PostgreSQL
-- Layered architecture
-- Zod validations
-- Automated testing with Jest
-
-### 📅 Dynamic Booking System (In Progress)
-- TypeScript + Prisma + PostgreSQL
-- Designed for barbershops and service businesses
-- Scalable and modular architecture
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🎯 Current Focus
@@ -96,4 +65,4 @@ I care about writing code that is:
 
 ## 🌎 Location
 
-Colombia — Open to remote opportunities worldwide.
+Colombia — Medellin.
